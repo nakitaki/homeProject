@@ -11,6 +11,7 @@ public class Main {
         persons.add(new American("Peter"));
         persons.add(new Spanish("Joan"));
 
+        
         for(Person person: persons){
             print(person);
         }
