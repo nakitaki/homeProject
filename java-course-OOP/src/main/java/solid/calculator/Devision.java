@@ -3,11 +3,11 @@ package solid.calculator;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DevisionOperation implements Operation {
+public class Devision implements Operation {
     private List<Integer> operands;
     private int result;
 
-    public DevisionOperation() {
+    public Devision() {
         this.operands = new ArrayList<>();
     }
 

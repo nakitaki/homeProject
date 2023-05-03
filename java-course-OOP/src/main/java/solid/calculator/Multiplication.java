@@ -3,11 +3,11 @@ package solid.calculator;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MultiplicationOperation implements Operation{
+public class Multiplication implements Operation{
     private List<Integer> operands;
     private int result;
 
-    public MultiplicationOperation() {
+    public Multiplication() {
         this.operands = new ArrayList<>();
     }
 
