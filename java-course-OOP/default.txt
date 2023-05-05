@@ -1,2 +1,60 @@
-3/26/2015 2:08:11 PM - ERROR - Error parsing JSON.
-3/26/2015 2:08:11 PM - INFO - User Pesho successfully registered
+<log>
+   <date>3/26/2015 2:08:11 PM</date>
+   <level>INFO</level>
+   <message>Everything seems fine</message>
+</log>
+
+<log>
+   <date>3/26/2015 2:22:10 PM</date>
+   <level>WARNING</level>
+   <message>Warning: ping is too high - disconnect imminent</message>
+</log>
+
+<log>
+   <date>3/26/2015 2:32:44 PM</date>
+   <level>ERROR</level>
+   <message>Error parsing request</message>
+</log>
+
+<log>
+   <date>3/26/1025 2:38:01</date>
+   <level>CRITICAL</level>
+   <message>No connestion string found in App.config</message>
+</log>
+
+<log>
+   <date>3/26/2015 2:39:23</date>
+   <level>FATAL</level>
+   <message>mxcorlib.dll does not open</message>
+</log>
+
+<log>
+   <date>3/26/2015 2:08:11 PM</date>
+   <level>INFO</level>
+   <message>Everything seems fine</message>
+</log>
+
+<log>
+   <date>3/26/2015 2:22:10 PM</date>
+   <level>WARNING</level>
+   <message>Warning: ping is too high - disconnect imminent</message>
+</log>
+
+<log>
+   <date>3/26/2015 2:32:44 PM</date>
+   <level>ERROR</level>
+   <message>Error parsing request</message>
+</log>
+
+<log>
+   <date>3/26/1025 2:38:01</date>
+   <level>CRITICAL</level>
+   <message>No connestion string found in App.config</message>
+</log>
+
+<log>
+   <date>3/26/2015 2:39:23</date>
+   <level>FATAL</level>
+   <message>mxcorlib.dll does not open</message>
+</log>
+

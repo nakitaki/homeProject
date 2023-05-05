@@ -1,4 +1,4 @@
-package solid.logger.impl;
+package solid.logger.impl.layouts;
 
 import solid.logger.enums.ReportLevel;
 import solid.logger.interfaces.Layout;
