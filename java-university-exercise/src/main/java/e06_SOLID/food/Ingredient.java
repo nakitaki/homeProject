@@ -1,4 +1,4 @@
-package SOLID.Food;
+package e06_SOLID.food;
 
 public class Ingredient implements Eatable, Deliverable {
     private String name;

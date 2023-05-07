@@ -1,6 +1,6 @@
-package SOLID.Hotels.utils;
+package e06_SOLID.hotels.utils;
 
-import SOLID.Hotels.hotel.HotelRoom;
+import e06_SOLID.hotels.hotel.HotelRoom;
 
 import java.io.*;
 

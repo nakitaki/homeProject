@@ -1,6 +1,6 @@
-package SOLID.Hotels.exceptions;
+package e06_SOLID.hotels.exceptions;
 
-import SOLID.Hotels.hotel.HotelRoom;
+import e06_SOLID.hotels.hotel.HotelRoom;
 
 public class RoomIsNotAvailableException extends Exception {
     private HotelRoom hotelRoom;

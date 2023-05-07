@@ -1,4 +1,4 @@
-package SOLID.Hotels.hotel;
+package e06_SOLID.hotels.hotel;
 
 import java.io.Serializable;
 

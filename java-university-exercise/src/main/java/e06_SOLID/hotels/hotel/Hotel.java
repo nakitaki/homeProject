@@ -1,8 +1,8 @@
-package SOLID.Hotels.hotel;
+package e06_SOLID.hotels.hotel;
 
-import SOLID.Hotels.exceptions.RoomAlreadyInTheListException;
-import SOLID.Hotels.exceptions.RoomIsNotAvailableException;
-import SOLID.Hotels.exceptions.RoomNotInTheListException;
+import e06_SOLID.hotels.exceptions.RoomAlreadyInTheListException;
+import e06_SOLID.hotels.exceptions.RoomIsNotAvailableException;
+import e06_SOLID.hotels.exceptions.RoomNotInTheListException;
 
 import java.util.ArrayList;
 import java.util.List;

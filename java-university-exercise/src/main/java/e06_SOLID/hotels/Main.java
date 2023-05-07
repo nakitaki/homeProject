@@ -1,11 +1,11 @@
-package SOLID.Hotels;
+package e06_SOLID.hotels;
 
-import SOLID.Hotels.exceptions.RoomAlreadyInTheListException;
-import SOLID.Hotels.exceptions.RoomIsNotAvailableException;
-import SOLID.Hotels.exceptions.RoomNotInTheListException;
-import SOLID.Hotels.hotel.Hotel;
-import SOLID.Hotels.hotel.HotelRoom;
-import SOLID.Hotels.utils.HotelSerializer;
+import e06_SOLID.hotels.exceptions.RoomAlreadyInTheListException;
+import e06_SOLID.hotels.exceptions.RoomIsNotAvailableException;
+import e06_SOLID.hotels.exceptions.RoomNotInTheListException;
+import e06_SOLID.hotels.hotel.Hotel;
+import e06_SOLID.hotels.hotel.HotelRoom;
+import e06_SOLID.hotels.utils.HotelSerializer;
 
 import java.io.FileWriter;
 import java.io.IOException;
