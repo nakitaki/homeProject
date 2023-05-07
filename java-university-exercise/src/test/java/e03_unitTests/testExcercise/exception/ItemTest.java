@@ -1,6 +1,6 @@
-package TestExcercise.Exception;
+package e03_unitTests.testExcercise.exception;
 
-import TestExcercise.Item;
+import e03_unitTests.testExcercise.Item;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -17,6 +17,6 @@ class ItemTest {
 
     @Test
     void testSellingPriceZeroPercentage(){
-        assertThrows(NegativeOverchargePercentageException.class, () -> item.sellingPrice(0));
+        assertThrows(NegativeOverchargePercentageException.class, () -> item.sellingPrice(-3));
     }
 }

@@ -1,4 +1,4 @@
-package unitTests.Shapes;
+package e03_unitTests.shapes;
 
 import java.util.ArrayList;
 import java.util.List;

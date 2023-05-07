@@ -1,4 +1,4 @@
-package TestExcercise.Exception;
+package e03_unitTests.testExcercise.exception;
 
 public class NegativeOverchargePercentageException extends Exception {
     private int overchargePercentage;

@@ -1,4 +1,4 @@
-package unitTests.Uni;
+package e03_unitTests.uni;
 
 public enum ProgramType {
     MAJOR(240), MINOR(120);

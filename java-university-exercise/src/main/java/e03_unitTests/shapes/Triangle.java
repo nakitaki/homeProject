@@ -1,4 +1,4 @@
-package unitTests.Shapes;
+package e03_unitTests.shapes;
 
 public class Triangle {
     private int side1;

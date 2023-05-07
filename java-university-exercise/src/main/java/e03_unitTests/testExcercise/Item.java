@@ -1,7 +1,6 @@
-package TestExcercise;
+package e03_unitTests.testExcercise;
 
-import TestExcercise.Exception.NegativeOverchargePercentageException;
-import TestExcercise.Sellable;
+import e03_unitTests.testExcercise.exception.NegativeOverchargePercentageException;
 
 public class Item implements Sellable {
     private final long ID;

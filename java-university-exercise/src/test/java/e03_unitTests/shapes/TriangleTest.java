@@ -1,7 +1,6 @@
-package unitTests.Shapes;
+package e03_unitTests.shapes;
 
 import org.junit.jupiter.api.Test;
-import unitTests.Shapes.Triangle;
 
 import static org.junit.jupiter.api.Assertions.*;
 

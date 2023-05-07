@@ -1,7 +1,6 @@
-package unitTests.Shapes;
+package e03_unitTests.shapes;
 
 import org.junit.jupiter.api.*;
-import unitTests.Shapes.Rectangle;
 
 import java.util.Arrays;
 import java.util.List;

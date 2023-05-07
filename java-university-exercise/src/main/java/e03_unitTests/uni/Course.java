@@ -1,4 +1,4 @@
-package unitTests.Uni;
+package e03_unitTests.uni;
 
 public class Course {
     private final long id; //ppc id sa long - ochakva se che shte ima mnogo obekti

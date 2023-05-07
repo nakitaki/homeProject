@@ -1,6 +1,6 @@
-package TestExcercise;
+package e03_unitTests.testExcercise;
 
-import TestExcercise.Exception.NegativeOverchargePercentageException;
+import e03_unitTests.testExcercise.exception.NegativeOverchargePercentageException;
 
 public interface Sellable {
     double sellingPrice(int overchargePercentage) throws NegativeOverchargePercentageException;
