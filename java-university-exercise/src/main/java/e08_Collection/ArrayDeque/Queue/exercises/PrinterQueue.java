@@ -1,4 +1,4 @@
-package e08_Collection.ArrayDeque.Queue;
+package e08_Collection.ArrayDeque.Queue.exercises;
 
 import java.util.ArrayDeque;
 import java.util.Scanner;
