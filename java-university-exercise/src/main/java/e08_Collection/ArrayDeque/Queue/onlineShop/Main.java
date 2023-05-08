@@ -22,7 +22,6 @@ public class Main {
 
         emag.displayOrders();
         emag.removeAllOrders();
-
         emag.removeOrder();
     }
 }
