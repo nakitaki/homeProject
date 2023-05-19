@@ -22,9 +22,7 @@ class GameTest {
 
     @Test
     public void attackWithSwordTest() throws Exception {
-
         when(player.getWeapon()).thenReturn("Sword");
-
         assertEquals("Player attack with: Sword", game.attack());
     }
 }
