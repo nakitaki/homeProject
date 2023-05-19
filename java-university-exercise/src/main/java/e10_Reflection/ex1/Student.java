@@ -34,6 +34,7 @@ public class Student extends Person implements Register{
                 "} " + super.toString();
     }
 
+    
     @Deprecated
     @Override
     public void register() {
