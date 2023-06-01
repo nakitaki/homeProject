@@ -12,7 +12,7 @@ public class ex1 {
     public static void main(String args[]) {
 
         // Create a Map
-        Map<String, Integer> map = new HashMap<>();
+        Map<Integer, String> map = new HashMap<>();
 
         // Add entries to the Map
         map.put(1, "Geeks");
