@@ -1,4 +1,4 @@
-package e12_TestPreparation.sports;
+package e12_TestPreparation.prep1.sports;
 
 public enum SportCategory {
     FOOTBALL(10),

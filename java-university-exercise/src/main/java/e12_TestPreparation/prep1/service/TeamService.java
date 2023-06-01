@@ -1,9 +1,9 @@
-package e12_TestPreparation.service;
+package e12_TestPreparation.prep1.service;
 
-import e12_TestPreparation.exceptions.MaxNumberOfPlayersExceededException;
-import e12_TestPreparation.sports.Player;
-import e12_TestPreparation.sports.SportCategory;
-import e12_TestPreparation.sports.Team;
+import e12_TestPreparation.prep1.exceptions.MaxNumberOfPlayersExceededException;
+import e12_TestPreparation.prep1.sports.Player;
+import e12_TestPreparation.prep1.sports.SportCategory;
+import e12_TestPreparation.prep1.sports.Team;
 
 import java.time.LocalDate;
 import java.util.Set;

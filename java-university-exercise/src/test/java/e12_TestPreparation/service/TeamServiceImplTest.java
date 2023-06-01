@@ -1,7 +1,9 @@
 package e12_TestPreparation.service;
 
-import e12_TestPreparation.sports.Player;
-import e12_TestPreparation.sports.Team;
+import e12_TestPreparation.prep1.service.PlayerService;
+import e12_TestPreparation.prep1.service.TeamServiceImpl;
+import e12_TestPreparation.prep1.sports.Player;
+import e12_TestPreparation.prep1.sports.Team;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

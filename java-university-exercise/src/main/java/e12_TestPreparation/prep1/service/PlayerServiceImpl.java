@@ -1,6 +1,6 @@
-package e12_TestPreparation.service;
+package e12_TestPreparation.prep1.service;
 
-import e12_TestPreparation.sports.Player;
+import e12_TestPreparation.prep1.sports.Player;
 
 public class PlayerServiceImpl implements PlayerService {
 
