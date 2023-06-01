@@ -19,7 +19,6 @@ class GameTest {
     @Mock
     Player player;
 
-
     @Test
     public void attackWithSwordTest() throws Exception {
         when(player.getWeapon()).thenReturn("Sword");
