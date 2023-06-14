@@ -1,0 +1,6 @@
+PrintMedia{name='24 chasa', mediaType=NEWSPAPER, pagesNumber=20, paper=Paper{pageSize=PageSize{priceForSheetSize=5}, pageType=PageType{priceForSheetType=1}}, isColored=true} 700 times
+PrintMedia{name='Imagine Dragons', mediaType=POSTER, pagesNumber=1, paper=Paper{pageSize=PageSize{priceForSheetSize=5}, pageType=PageType{priceForSheetType=1}}, isColored=true} 30 times
+PrintMedia{name='Magician of Oz', mediaType=BOOK, pagesNumber=20, paper=Paper{pageSize=PageSize{priceForSheetSize=3}, pageType=PageType{priceForSheetType=0.5}}, isColored=false} 104 times
+Total expenses: 73670.0
+Total income: 146540.0
+Profit: 72870.0

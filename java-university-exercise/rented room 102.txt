@@ -1,0 +1,1 @@
+Hotel{name='H1', rooms=[HotelRoom{roomNumber=101, occupants=2, price=133.0}, HotelRoom{roomNumber=102, occupants=3, price=123.0}, HotelRoom{roomNumber=103, occupants=3, price=123.0}]} HotelRoom{roomNumber=103, occupants=3, price=123.0}
